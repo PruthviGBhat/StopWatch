@@ -1,0 +1,88 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.all {
+    width: 35rem;
+    height: 20rem;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
+
+.countdown {
+    padding: 15px;
+    margin: 5px;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    font-size: 9vh;
+}
+
+.btn {
+    padding: 15px;
+    margin: 5px;
+    display: flex;
+    position: absolute;
+    top: 60%;
+    left: 4%;
+}
+
+#start {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(23, 107, 23);
+    color: white;
+    border-radius: 25px;
+    margin: 10px;
+    font-size: larger;
+    cursor: pointer;
+}
+
+#stop {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(137, 24, 47);
+    color: white;
+    border-radius: 25px;
+    margin: 10px;
+    font-size: larger;
+    cursor: pointer;
+}
+
+#reset {
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: rgb(43, 43, 147);
+    color: white;
+    border-radius: 25px;
+    margin: 10px;
+    font-size: larger;
+    cursor: pointer;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
