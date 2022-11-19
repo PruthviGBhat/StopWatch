@@ -4,6 +4,8 @@ Start button initiates the watch from 00 seconds,
 Stop button stops the watch where it is currently running,
 Reset button re-initiates the watch from 00 seconds.
 This repo uses following tech stacks:
+
+
 1.HTML
 2.CSS
 3.javascript
