@@ -1,12 +1,35 @@
-# StopWatch
-This is a simple stop watch in which it has three controls start/stop/reset, Shows "hours:minutes:seconds" order respectively
-Start button initiates the watch from 00 seconds,
-Stop button stops the watch where it is currently running,
-Reset button re-initiates the watch from 00 seconds.
-This repo uses following tech stacks:
+# Simple Stopwatch
 
- 1. HTML
- 2. CSS
- 3. Vanilla Js
+This is a basic stopwatch application that provides three controls: start, stop, and reset. It displays time in the format "hours:minutes:seconds".
 
-If you feel any changes should me made feel free to issue it or contribute to it.
+## Controls
+
+- **Start**: Initiates the stopwatch from 00 seconds.
+- **Stop**: Pauses the stopwatch at its current time.
+- **Reset**: Resets the stopwatch to 00 seconds.
+
+## Tech Stacks Used
+
+- HTML
+- CSS
+- Vanilla JavaScript
+
+## Usage
+
+To use the stopwatch, simply open the `index.html` file in a web browser.
+
+## How it Works
+
+This stopwatch is built using fundamental web technologies - HTML for structure, CSS for styling, and Vanilla JavaScript for functionality. The start button triggers the timer, the stop button pauses it, and the reset button sets it back to 00 seconds.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE). Feel free to use and modify this code as per your requirements.
+
+## Acknowledgements
+
+- Special thanks to the creators of HTML, CSS, and JavaScript for providing the tools to build this application.
+
+---
+
+Happy timing! 🕒
